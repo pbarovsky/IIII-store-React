@@ -27,7 +27,7 @@
 
 ## Справочник API
 
-Этот проект использует Platzi Fake Store Api для получения данных. Вы можете найти дополнительную информацию на [странице Platzi Fake Store Api]([https://rapidapi.com/MeteosourceWeather/api/ai-weather-by-meteosource](https://fakeapi.platzi.com/)).
+Этот проект использует Platzi Fake Store Api для получения данных. Вы можете найти дополнительную информацию на [странице Platzi Fake Store Api](https://fakeapi.platzi.com/).
 
 ## PS
 
