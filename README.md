@@ -1,4 +1,4 @@
-# React IIII omline store
+# React IIII online store
 
 Интернет-магазин различных вещей
 
